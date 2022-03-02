@@ -1,4 +1,4 @@
-baseURL = 'piaoliangkb.github.io/test-page'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "hugo-book"
