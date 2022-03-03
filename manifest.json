@@ -1,14 +1,14 @@
 {
   "name": "piaoliankb site",
   "short_name": "piaoliankb site",
-  "start_url": "/piaoliangkb.github.io/test-page/",
-  "scope": "/piaoliangkb.github.io/test-page/",
+  "start_url": "/test-page/",
+  "scope": "/test-page/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/piaoliangkb.github.io/test-page/favicon.svg",
+      "src": "/test-page/favicon.svg",
       "sizes": "512x512"
     }
   ]
